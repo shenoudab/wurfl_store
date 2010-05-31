@@ -1,0 +1,27 @@
+WurflStore : Wurfl Redis Store
+============
+
+Wurfl Redis Store
+
+Installation
+============
+
+Install the gem from gemcutter:
+
+  sudo gem install wurfl_store
+
+Special Thanks
+==============
+
+WurflStore was inspired and based on wurfl_store . Many thanks to the authors and contributors.
+
+
+Feedback
+========
+
+Send Feedback and questions to: sbertel at mobithought.com
+
+
+More will Coming Soon, Wait for MobiThought
+
+Copyright (c) 2010 Shenouda Bertel, MobiThought, released under the MIT license

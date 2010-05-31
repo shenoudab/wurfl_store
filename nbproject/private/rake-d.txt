@@ -1,0 +1,14 @@
+clobber=
+clobber_package=Remove package products
+clobber_rdoc=Remove rdoc products
+default=Default: run unit tests.
+gem=Build the gem file wurfl_store-0.1.0.gem
+package=Build all the packages
+pkg=
+pkg/wurfl_store-0.1.0=
+pkg/wurfl_store-0.1.0.gem=
+rdoc=Build the rdoc HTML Files
+rdoc/index.html=
+repackage=Force a rebuild of the package files
+rerdoc=Force a rebuild of the RDOC files
+test=Run tests
