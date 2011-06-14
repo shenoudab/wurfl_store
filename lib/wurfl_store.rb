@@ -2,7 +2,7 @@ require 'wurfl_store/cache_initializer'
 require 'wurfl_store/view'
 require 'wurfl_store/filter'
 require 'rubygems'
-require 'activesupport'
+require 'active_support'
 require 'redis-store'
 
 module WurflStore
